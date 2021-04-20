@@ -9,6 +9,18 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/deploy\/css\/styles-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/styles-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -125,12 +137,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/new\/herbs and spices.jpg" : {
+    "\/deploy\/img\/new\/herbs-and-spices.jpg" : {
       "ft" : 16384,
       "iS" : 84456,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/new\/herbs and spices.jpg",
+      "oAP" : "\/deploy\/img\/new\/herbs-and-spices.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -151,18 +163,28 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/new\/vegan pastries.jpg" : {
+    "\/deploy\/img\/new\/vegan-pastries.jpg" : {
       "ft" : 16384,
       "iS" : 57754,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/new\/vegan pastries.jpg",
+      "oAP" : "\/deploy\/img\/new\/vegan-pastries.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/VEDA_LOGO.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/VEDA_LOGO.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
@@ -182,6 +204,18 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/deploy\/styles.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/styles-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/design\/Angelkova_homework1.sketch" : {
       "cB" : 0,
@@ -213,6 +247,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/new.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/planning.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/planning.html",
       "oF" : 0
     },
     "\/dev\/content\/search.kit" : {
@@ -414,7 +456,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_section-1.scss" : {
+    "\/dev\/scss\/sections\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -422,13 +464,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-1.css",
+      "oAP" : "\/dev\/scss\/sections\/_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_section-2.scss" : {
+    "\/dev\/scss\/sections\/_hero2.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -436,13 +478,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-2.css",
+      "oAP" : "\/dev\/scss\/sections\/_hero2.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_section-3.scss" : {
+    "\/dev\/scss\/sections\/_new.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -450,13 +492,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-3.css",
+      "oAP" : "\/dev\/scss\/sections\/_new.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_section-4.scss" : {
+    "\/dev\/scss\/sections\/_planning.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -464,13 +506,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-4.css",
+      "oAP" : "\/dev\/scss\/sections\/_planning.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_section-5.scss" : {
+    "\/dev\/scss\/sections\/_search.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -478,63 +520,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-5.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_section-6.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-6.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_section-7.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-7.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_section-8.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-8.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_sections.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_sections.css",
+      "oAP" : "\/dev\/scss\/sections\/_search.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
